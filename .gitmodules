@@ -16,3 +16,6 @@
 [submodule "vim/dotvim"]
 	path = vim/dotvim
 	url = https://github.com/dotphiles/dotvim.git
+[submodule "vim_runtime"]
+	path = vim_runtime
+	url = https://github.com/amix/vimrc.git
