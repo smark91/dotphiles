@@ -72,10 +72,11 @@ plugins=(
   git
   sudo
   kubectl
-  #zsh-autosuggestions
+  zsh-autosuggestions
   zsh-syntax-highlighting
-  #zsh-interactive-cd
+  zsh-interactive-cd
   fzf
+  tmux
 )
 
 source $ZSH/oh-my-zsh.sh
